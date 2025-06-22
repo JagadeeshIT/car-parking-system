@@ -1,0 +1,5 @@
+com\carparking\usermanagementservice\UserManagementServiceApplication.class
+com\carparking\usermanagementservice\service\UserService.class
+com\carparking\usermanagementservice\controller\UserController.class
+com\carparking\usermanagementservice\entity\User.class
+com\carparking\usermanagementservice\repository\UserRepository.class

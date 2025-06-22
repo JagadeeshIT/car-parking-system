@@ -1,0 +1,7 @@
+com\carparking\parkingmanagementservice\repository\ParkingSlotRepository.class
+com\carparking\parkingmanagementservice\entity\ParkingSlot.class
+com\carparking\parkingmanagementservice\service\ParkingService.class
+com\carparking\parkingmanagementservice\controller\ParkingController.class
+com\carparking\parkingmanagementservice\feign\UserClient.class
+com\carparking\parkingmanagementservice\model\User.class
+com\carparking\parkingmanagementservice\ParkingManagementServiceApplication.class
