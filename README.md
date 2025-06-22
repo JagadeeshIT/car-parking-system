@@ -49,14 +49,13 @@ This is a full-stack **Spring Boot Microservices-based Car Parking System** desi
 4. Start `user-management-service`
 5. Start `parking-management-service`
 
-Visit Eureka: [http://localhost:8761](http://localhost:8761)  
-Test APIs via Postman using: [http://localhost:8080](http://localhost:8080)
+Visit Eureka: [http://localhost:8761](http://localhost:8761)
 
 ---
 
 ## Sample API Endpoints
 
-### User APIs
+### User APIs (http://localhost:8008/api/users)
 - `POST /api/users/register` → Register a new user
 - `GET /api/users` → Get all users
 - `GET /api/users/{id}` → Get user by ID
